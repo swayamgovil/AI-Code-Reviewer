@@ -1,0 +1,13 @@
+Backend/node_modules
+Backend/temp.md
+
+Frontend/node_modules
+
+.env
+
+Frontend/package.json
+
+Frontend/package-lock.json
+
+Frontend/vite.config.js
+
