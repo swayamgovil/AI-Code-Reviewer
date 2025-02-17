@@ -25,3 +25,4 @@ async function generateContent(prompt) {
 }
 module.exports = generateContent
 
+//Runs Google Gemini API

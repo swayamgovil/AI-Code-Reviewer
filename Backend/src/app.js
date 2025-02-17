@@ -18,3 +18,5 @@ app.get('/', (req, res)=>{
 app.use('/ai', aiRoutes)
 
 module.exports = app;
+
+//Runs the default route 
